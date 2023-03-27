@@ -9,7 +9,7 @@ Objective: The objective of this project is to perform sentiment analysis on a d
   3.1 How do eWOM communications impact TV viewers in different Australian cities?
   3.2 How do eWOM communications impact online engagements on different race weekends?
   
-Data collection: The data was provided by the University of Sydney 
+Data collection: The data was provided by the University of Sydney and were not published due to confidentiality.
 
 Data preprocessing: The tweets data is processed by tokenizing the tweets, removing stop words, standardising text into all lower cases, and using Wordnet Lemmatizer by NLTK.  
 
